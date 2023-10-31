@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616433788718",
+    "project_id": "internshala-assignment-e7d74",
+    "storage_bucket": "internshala-assignment-e7d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616433788718:android:32169b870cab2b96497cbf",
+        "android_client_info": {
+          "package_name": "com.example.internshalaassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBioynEpypKf6jiw2Dbs4KPGLo0y7Xk68s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

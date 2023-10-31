@@ -10,7 +10,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.internshalaassignment.AppliedWorkshopListRecyclerViewAdapter
+import com.example.internshalaassignment.adapters.AppliedWorkshopListRecyclerViewAdapter
 import com.example.internshalaassignment.R
 import com.example.internshalaassignment.models.Workshop
 import com.example.internshalaassignment.models.LocalDatabase

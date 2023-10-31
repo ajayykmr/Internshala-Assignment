@@ -3,7 +3,6 @@ package com.example.internshalaassignment.ui
 import android.content.Context
 import android.content.SharedPreferences
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
@@ -11,12 +10,11 @@ import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.internshalaassignment.R
-import com.example.internshalaassignment.WorkshopsListRecyclerViewAdapter
+import com.example.internshalaassignment.adapters.WorkshopsListRecyclerViewAdapter
 import com.example.internshalaassignment.models.Workshop
 import com.example.internshalaassignment.models.LocalDatabase
 import com.example.internshalaassignment.models.User
 import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.async
 import kotlinx.coroutines.launch
 import java.time.LocalDate
 

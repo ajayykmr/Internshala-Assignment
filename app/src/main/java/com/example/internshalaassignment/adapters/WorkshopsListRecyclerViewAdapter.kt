@@ -1,4 +1,4 @@
-package com.example.internshalaassignment
+package com.example.internshalaassignment.adapters
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.internshalaassignment.R
 import com.example.internshalaassignment.models.Workshop
 
 class WorkshopsListRecyclerViewAdapter(
